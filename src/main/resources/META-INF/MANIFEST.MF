@@ -1,1 +1,1 @@
-Premain-Class: com.wang.agent.staticAgent.AgentMain 
+Premain-Class: com.wang.agent.staticAgent.StaticAgentMain 
